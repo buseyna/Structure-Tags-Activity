@@ -1,0 +1,35 @@
+p {
+    color: blue;
+    font-weight: bolder;
+    
+}
+div {
+    color: #610765;
+}
+body{
+    background-color: #799FEF;
+}
+div {
+font-size: 40px;
+font-size: 1em;
+font-weight: 900;
+
+}
+#container {
+color: palevioletred;
+}
+.leftColum {
+    color: red;
+}
+#Anotherdiv {
+    color: orange;
+}
+.Anotherdiv2 {
+    color: orange;
+}
+
+#cont {
+    color: #331035;
+    font-weight: 900;
+    font-size: 18px;
+}

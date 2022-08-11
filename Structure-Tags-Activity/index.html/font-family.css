@@ -1,0 +1,14 @@
+p {
+    font-family: 'Shadows Into Light', cursive;
+border-style: dashed solid dashed solid;
+border-width: medium 12px thick 16px;
+border-color: blueviolet;
+}
+.style {
+border-style: solid;
+border-width: thick;
+border-color: red;
+}
+.style1 {
+    border:5px dotted  orange;
+}

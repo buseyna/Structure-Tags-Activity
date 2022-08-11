@@ -1,0 +1,20 @@
+#topic-link {
+    color: red;
+  }
+  
+  #topic-link:visited {
+    color: magenta;
+  }
+  
+  #topic-link:hover {
+    color: white;
+  }
+  
+/*.header :first-child {
+    color: red;
+    font-size: larger;
+}*/
+.header :nth-child(odd) {
+    color: red;
+    font-size: larger;
+}
